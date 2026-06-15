@@ -1,0 +1,21 @@
+{
+  "name": "cf",
+  "version": "1.0.0",
+  "description": "Backend",
+  "license": "ISC",
+  "author": "Om Shivhare",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@imagekit/nodejs": "^7.7.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "imagekit": "^6.0.0",
+    "mongoose": "^9.7.0",
+    "multer": "^2.1.1"
+  }
+}
